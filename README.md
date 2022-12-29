@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="https://capsule-render.vercel.app/api?type=cylinder&color=	dcdcdc&text=Welcome!%20안녕하세요!&fontAlignY=45&fontSize=30&height=120&animation=blinking&desc=Jeonghwan&descAlignY=70&"width=700 height=100>
+	<img src="https://capsule-render.vercel.app/api?type=cylinder&color=dcdcdc&text=Welcome!%20안녕하세요!&fontAlignY=45&fontSize=30&height=120&animation=blinking&desc=Jeonghwan&descAlignY=70&"width=700 height=100>
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fskysky44&count_bg=%23CD8FEE&title_bg=%238A39B2&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)
 
@@ -41,7 +41,7 @@
 <br/><br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skysky44&layout=compact&theme=buefy" width=300 height=120>
-
+<br/>
 <img src="https://github-readme-stats.vercel.app/api?username=skysky44&show_icons=true&theme=buefy" width=300 height=150>
 
 
