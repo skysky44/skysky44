@@ -14,9 +14,9 @@
   <br/>
   <br/>
   <br/>
-  <table style="width: 100%;">
+  <table style="width: 100%; border: none;">
     <tr>
-      <td style="width: 50%; vertical-align: top;">
+      <td style="width: 40%; vertical-align: top;">
         <h2>Tech Stacks</h2>
         <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
         <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&color=green">
@@ -25,7 +25,7 @@
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
         <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
       </td>
-      <td style="width: 50%; vertical-align: top;">
+      <td style="width: 40%; vertical-align: top;">
         <h2>Sport Stacks</h2>
         <img src="https://img.shields.io/badge/Football-2DA9D7?style=for-the-badge&logo=Nike&logoColor=white"> 
         <img src="https://img.shields.io/badge/walking-F8991C?style=for-the-badge&logo=Nike&logoColor=white">
@@ -38,7 +38,7 @@
   <br/>
   <br/>
   
-  <table style="width: 100%;">
+  <table style="width: 100%; border: none;">
     <tr>
       <td align="center" style="width: 50%; vertical-align: bottom;">
         <img src="https://github-readme-stats.vercel.app/api?username=skysky44&show_icons=true&theme=buefy" width="100%">
